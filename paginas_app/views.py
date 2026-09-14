@@ -5,7 +5,7 @@ def mostrar_home(request):
 
 def mostrar_servicio(request):
     card = {
-        "Servicio": "Lavado de Vehiculos",
+        "Nombre": "Lavado de Vehiculos",
         "Valor": 10000
     }
 
